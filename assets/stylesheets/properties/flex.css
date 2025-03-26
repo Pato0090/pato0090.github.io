@@ -1,0 +1,27 @@
+.flex{
+    display: flex;
+}
+
+.flex-column{
+    flex-direction: column;
+}
+
+.flex-justify-center{
+    justify-content: center;
+}
+
+.flex-align-center{
+    align-items: center;
+}
+
+.flex-space-btw{
+    justify-content: space-between;
+}
+
+.flex-gap-5p{
+    gap: 0.5rem
+}
+
+.flex-gap-10p{
+    gap: 1rem;
+}

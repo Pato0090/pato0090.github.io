@@ -1,0 +1,17 @@
+header{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: calc(100dvw - 4rem);
+    height: fit-content;
+    padding: 1rem 2rem;
+}
+
+header ul{
+    list-style: none;
+}
+
+header ul li{
+    list-style: none;
+    display: inline-block;
+}

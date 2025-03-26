@@ -1,0 +1,11 @@
+.btn{
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    padding: 0.5rem 0.8rem;
+}
+
+.btn-primary{
+    background-color: var(--text-color);
+    color: var(--opposite-text-color);
+}

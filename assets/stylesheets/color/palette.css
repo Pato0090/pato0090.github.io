@@ -1,0 +1,8 @@
+:root {
+    --primary-color: #3498db;   /* Blu */
+    --secondary-color: #2ecc71; /* Verde */
+    --accent-color: #e74c3c;    /* Rosso */
+    --background-color: #D2C7E5; /* Grigio chiaro */
+    --text-color: #1e1d21;      /* Grigio scuro */
+    --opposite-text-color: #e9e9e9;      /* Grigio scuro */
+}

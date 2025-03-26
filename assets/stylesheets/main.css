@@ -1,3 +1,12 @@
-body{
-    background-color: aqua;
-}
+/* Import components */
+@import url("components/header.css");
+@import url("components/body.css");
+@import url("components/button.css");
+@import url("components/title.css");
+@import url("components/card.css");
+/* Import color */
+@import url("color/palette.css");
+/* Import properties */
+@import url("properties/flex.css");
+@import url("properties/grid.css");
+@import url("properties/margin.css");
