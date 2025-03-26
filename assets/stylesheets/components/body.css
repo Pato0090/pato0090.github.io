@@ -12,5 +12,6 @@ main{
     width: 100dvw;
     height: calc(100dvh - 5.5rem);
     display: flex;
-    flex-direction: column-reverse;
+    flex-direction: column;
+    justify-content: center;
 }
